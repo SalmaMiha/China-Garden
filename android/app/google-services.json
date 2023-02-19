@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115010551372",
+    "project_id": "china-garden-92c12",
+    "storage_bucket": "china-garden-92c12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115010551372:android:eed4123105ef313a7dfee9",
+        "android_client_info": {
+          "package_name": "com.example.china_garden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115010551372-810e34bvlg93k21g6e0ecuvqd6tvgttf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_IlYJqC9RPQCZ5s-zffs3qsg-Sprd14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115010551372-810e34bvlg93k21g6e0ecuvqd6tvgttf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
